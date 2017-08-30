@@ -1,0 +1,19 @@
+[
+{
+  "modid": "BD",
+  "name": "Boom Device Mod",
+  "description": "Boom Device mod",
+  "version": "1.0",
+  "credits": "",
+  "logoFile": "/logo.png",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/LINYIPI/BoomDeviceMod",
+  "updateUrl": "",
+  "authorList": [ "LXX" ] ,
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]

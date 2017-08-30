@@ -1,0 +1,13 @@
+[13:52:43] [main/INFO]: Setting user: Player216
+[13:52:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:52:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Boom Device Mod
+[13:52:53] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: BD/ in H:\1.7.10MOD\BD\bin
+[13:52:55] [Sound Library Loader/INFO]: Sound engine started
+[13:52:56] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:52:56] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:52:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Boom Device Mod
+[13:52:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: BD/ in H:\1.7.10MOD\BD\bin
+[13:52:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:52:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:52:58] [Sound Library Loader/INFO]: Sound engine started
+[13:53:08] [Client thread/INFO]: Stopping!
